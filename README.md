@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👩‍💻 Marina Souza, 19 anos
+**`Estudante de ADS | Futura DevSecOps/SRE`**
 
-<!--
-**MarinacSouzac/MarinacSouzac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="www.linkedin.com/in/marina-cruz-de-souza"><img width="32px" alt="LinkedIn" title="LinkedIn" src=""/></a>
+</p>
 
-Here are some ideas to get you started:
+<p style="color:#87CEFA"><b>Apaixonada por aprender, motivada a criar✨</b></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Formação:** Técnica em TI | Estudante de Análise e Desenvolvimento de Sistemas  
+- 💻 **Atualmente:** Aprendendo **backend** e explorando **DevSecOps/SRE**  
+- 📊 **Linguagens e tecnologias:** Java, C, JavaScript, HTML, CSS, SQL 
+- 🌍 **Idiomas:** Português (nativo), Inglês (intermediário)  
+<br>
+
+<br/>
