@@ -1,16 +1,18 @@
 ## 👩‍💻 Marina Souza, 19 anos
 **`Estudante de ADS | Futura DevSecOps/SRE`**
 
+  **Apaixonada por aprender, motivada a criar ✨**
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/marina-cruz-de-souza">
-    <img width="50px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"/>
-  </a>
+  <img width="300px" alt="Emoji" title="Emoji" src="images/emoji.png"/>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/marina-cruz-de-souza">
     <img width="50px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"/>
   </a>
 </p>
 
-**Apaixonada por aprender, motivada a criar ✨**
 
 
 - 🎓 **Formação:** Técnica em TI | Estudante de Análise e Desenvolvimento de Sistemas  
