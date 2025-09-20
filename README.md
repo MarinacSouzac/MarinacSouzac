@@ -3,9 +3,7 @@
 
   **Apaixonada por aprender, motivada a criar ✨**
 
-<p align="center">
-  <img width="300px" alt="Emoji" title="Emoji" src="images/emoji.png"/>
-</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marina-cruz-de-souza">
