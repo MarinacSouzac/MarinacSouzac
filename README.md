@@ -9,9 +9,6 @@
   <a href="https://www.linkedin.com/in/marina-cruz-de-souza">
     <img width="50px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"/>
   </a>
- <a href="">
-    <img width="50px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"/>
-  </a>
 </p>
 
 
